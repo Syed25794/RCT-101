@@ -1,0 +1,19 @@
+.input_field{
+    margin: 5px;
+    width: 250px;
+    height: 25px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    padding-left: 10px;
+}
+.button_tag{
+    margin: 5px;
+    padding: 5px 20px 5px 20px;
+    background-color:orange ;
+    border-radius: 15px;
+    border: 2px solid gray;
+    cursor: pointer;
+}
+.button_tag:hover{
+    border: 2px solid green;
+}
