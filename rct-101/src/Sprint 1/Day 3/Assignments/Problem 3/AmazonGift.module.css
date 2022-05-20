@@ -1,0 +1,49 @@
+.container{
+    width: 600px;
+    height: 400px;
+    margin: auto;
+}
+.date_logo{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+.logo{
+    width: 70px;
+    height: 70px;
+    margin-top: 20px;
+}
+.date{
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.case_study{
+    background-color: black;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    color:white;
+    font-weight: 500;
+    margin-left: 40px;
+    border: 1px solid black;
+}
+.case_text{
+    margin: 7px 0px 0px 0px ;
+}
+.heading_subH{
+    margin-left: 40px;
+}
+.bottom_box{
+    display: flex;
+    justify-content: space-between;
+}
+.arrow{
+    width: 70px;
+    height: 45px;
+    margin-right: 40px;
+}
+.device{
+    margin-left: 40px;
+    font-weight: 500;
+}

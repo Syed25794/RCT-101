@@ -1,5 +1,7 @@
 import './App.css';
-import { Todo } from './Sprint 1/Day 2/Assignments/Problem 2/Todo';
+// import { Parent } from './Sprint 1/Day 4/Parent';
+// import { Todo } from './Sprint 1/Day 2/Assignments/Problem 2/Todo';
+import { Card } from './Sprint 1/Day 3/Assignments/Problem 3/Card';
 
 
 function App() {
@@ -27,9 +29,9 @@ function App() {
   // );
 
  return(
-   <div className='container'>
-   <Todo/>
-   </div>
+   <>
+   <Card/>
+   </>
  )
 
 }
