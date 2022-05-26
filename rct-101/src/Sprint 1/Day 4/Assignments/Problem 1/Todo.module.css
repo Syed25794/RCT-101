@@ -9,7 +9,7 @@
 }
 .remove{
     border: none;
-    background-color: white;
+    background-color: red;
     color:white
 }
 .remove:hover{
