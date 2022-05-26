@@ -5,11 +5,11 @@
     height: 25px;
     margin-bottom: 5px;
     border: 1px solid blue;
-    background-color: lavender;
+    background-color: green;
 }
 .remove{
     border: none;
-    background-color: white;
+    background-color: red;
     color:white
 }
 .remove:hover{
