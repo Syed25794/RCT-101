@@ -1,0 +1,13 @@
+.input_div{
+    margin: 20px;
+    display:flex; 
+}
+
+.input_field{
+    padding: 0px 80px 0px 5px;
+    margin-left: 13px;
+}
+
+.btn{
+    font-size: 20px;
+}

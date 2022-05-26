@@ -1,0 +1,26 @@
+.todo_div{
+    display: flex;
+    width: 280px;
+    margin: auto;
+    height: 25px;
+    margin-bottom: 5px;
+    border: 1px solid blue;
+    background-color: green;
+}
+.remove{
+    border: none;
+    background-color: white;
+    color:white
+}
+.remove:hover{
+    color :black;
+}
+.text{
+    margin-top: 2px;
+    margin-left: 5px;
+}
+
+.checkBox_div{
+    margin-top: 6px;
+    border: 1px solid teal;
+}
