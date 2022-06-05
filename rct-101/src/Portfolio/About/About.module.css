@@ -1,0 +1,39 @@
+.left{
+    height: 20vh;
+}
+.right{
+    border-radius: 10%;
+    height: 20vh;
+    margin-left: 30%;
+    margin-top: 1%;
+}
+.about_div{
+    display: flex;
+    height: 70vh;
+    background-color: aqua;
+}
+.image{
+    border-radius: 10%;
+    height: 50vh;
+    width: 95%;
+}
+.resume{
+    width:10vw;
+    height:5vh;
+    border:1px solid red;
+    margin:2% 0% 0% 3%;
+    text-align: center;
+    border-radius: 10%;
+    background:rgb(255,192,201);
+    padding-top: 1%;
+}
+.resume:hover{
+    font-size: 1em;
+}
+.two_anchor{
+    border:1px solid red;
+}
+.div_anchor{
+    display:flex;
+}
+

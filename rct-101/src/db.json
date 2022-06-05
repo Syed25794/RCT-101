@@ -1,0 +1,104 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Learn HTML",
+      "done": true
+    },
+    {
+      "id": 2,
+      "text": "Learn CSS",
+      "done": true
+    },
+    {
+      "id": 3,
+      "text": "Learn JavaScript",
+      "done": true
+    },
+    {
+      "text": "Learn React",
+      "done": true,
+      "id": 4
+    },
+    {
+      "text": "Learn MongoDb",
+      "done": true,
+      "id": 5
+    },
+    {
+      "text": "Learn Java",
+      "done": true,
+      "id": 6
+    },
+    {
+      "text": "Learn Python",
+      "done": true,
+      "id": 7
+    },
+    {
+      "text": "Learn Python",
+      "done": true,
+      "id": 8
+    },
+    {
+      "text": "Learn Python",
+      "done": true,
+      "id": 9
+    },
+    {
+      "text": "Learn Python",
+      "done": true,
+      "id": 10
+    },
+    {
+      "text": "Learn Python",
+      "done": true,
+      "id": 11
+    },
+    {
+      "text": "Learn html",
+      "done": true,
+      "id": 12
+    },
+    {
+      "text": "Learn typescript",
+      "done": true,
+      "id": 13
+    },
+    {
+      "text": "Learn mongoDB",
+      "done": true,
+      "id": 14
+    },
+    {
+      "text": "Learn MATH",
+      "done": true,
+      "id": 15
+    },
+    {
+      "text": "Learn Science",
+      "done": true,
+      "id": 16
+    },
+    {
+      "text": "Learn Mathematics",
+      "done": true,
+      "id": 17
+    },
+    {
+      "text": "Add todo",
+      "done": true,
+      "id": 18
+    },
+    {
+      "text": "add tod",
+      "done": true,
+      "id": 19
+    },
+    {
+      "text": "my todos",
+      "done": true,
+      "id": 20
+    }
+  ]
+}

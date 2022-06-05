@@ -1,0 +1,11 @@
+.main_div{
+    width: 400px;
+    height:200px;
+    margin: auto;
+    text-align: center;
+    /* border:1px solid red; */
+    border-radius:10px;
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+    margin-top: 20px;
+    padding-top: 10px;
+}

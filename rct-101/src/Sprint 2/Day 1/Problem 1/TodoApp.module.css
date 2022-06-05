@@ -1,0 +1,15 @@
+.main_div{
+    margin: auto;
+    width: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: darkslateblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn_div{
+    width: 350px;
+    margin:10px 0px 0px 100px;
+}
+.btn_div > button{
+    margin:10px;
+}
