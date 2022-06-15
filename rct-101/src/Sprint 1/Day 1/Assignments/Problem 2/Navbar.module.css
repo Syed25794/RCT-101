@@ -1,9 +1,0 @@
-.nav_div{
-    display: flex;
-    justify-content:space-between;
-    background-color: rgb(36,37,42);
-}
-.main_div{
-    background-color: rgb(214,226,236);
-    padding:20px 10px 20px 10px;   
-}
