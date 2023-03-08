@@ -1,0 +1,344 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Tumhara Restaurant",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Paneer, Mushroom,Kofta",
+      "costForOne": 800,
+      "minPrice": 180,
+      "orderTime": 30,
+      "reating": 4.5,
+      "votes": 1520,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sher e Panjab Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Pounded Yam,Egusi Soup",
+      "costForOne": 700,
+      "minPrice": 150,
+      "orderTime": 40,
+      "reating": 3.8,
+      "votes": 620,
+      "reviews": 250,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Evergreen Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Ewa Agoyin, Beef Stew, Suya",
+      "costForOne": 600,
+      "minPrice": 100,
+      "orderTime": 30,
+      "reating": 3.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 4,
+      "name": "Hamara Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Efo Riro, Akara, Dodo, Puff puff",
+      "costForOne": 500,
+      "minPrice": 80,
+      "orderTime": 40,
+      "reating": 2.9,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 5,
+      "name": "Hollywood Café",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Jollof Rice, Egusi Soup Recipe",
+      "costForOne": 400,
+      "minPrice": 50,
+      "orderTime": 45,
+      "reating": 2.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 6,
+      "name": "Masuri Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Tea and Bread, Noodles",
+      "costForOne": 300,
+      "minPrice": 40,
+      "orderTime": 30,
+      "reating": 2.1,
+      "votes": 120,
+      "reviews": 50,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 7,
+      "name": "MBA Chai Wala",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Boli, Moin moin,Tea and Bread",
+      "costForOne": 200,
+      "minPrice": 30,
+      "orderTime": 50,
+      "reating": 1.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 8,
+      "name": "Hyderabadi Biryani",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Rice, Burger, Ramen, Sosis 2",
+      "costForOne": 100,
+      "minPrice": 20,
+      "orderTime": 30,
+      "reating": 0.8,
+      "votes": 80,
+      "reviews": 30,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 9,
+      "name": "Lajawaab Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Rice Bowl,Yamarita",
+      "costForOne": 80,
+      "minPrice": 10,
+      "orderTime": 10,
+      "reating": 0.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 10,
+      "name": "Tea and Coffee Point",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Fried Rice,Suya, Egusi Soup",
+      "costForOne": 1200,
+      "minPrice": 250,
+      "orderTime": 20,
+      "reating": 5.0,
+      "votes": 9820,
+      "reviews": 8750,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 11,
+      "name": "Hollywood Café",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Pounded Yam,Tea,Coffee",
+      "costForOne": 1100,
+      "minPrice": 220,
+      "orderTime": 30,
+      "reating": 4.8,
+      "votes": 8820,
+      "reviews": 6750,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 12,
+      "name": "Zayka Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Ewa Agoyin, Beef Stew, Suya",
+      "costForOne": 950,
+      "minPrice": 200,
+      "orderTime": 30,
+      "reating": 4.3,
+      "votes": 5020,
+      "reviews": 4550,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 13,
+      "name": "Zannat Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Ewa Agoyin, Beef Stew",
+      "costForOne": 850,
+      "minPrice": 180,
+      "orderTime": 30,
+      "reating": 3.8,
+      "votes": 3820,
+      "reviews": 1750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 14,
+      "name": "Hastinapur Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Pepper Soups , Egusi Soup",
+      "costForOne": 750,
+      "minPrice": 120,
+      "orderTime": 30,
+      "reating": 3.3,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 15,
+      "name": "Bharat Hotel Services",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Rice,Suya,Yamarita",
+      "costForOne": 550,
+      "minPrice": 90,
+      "orderTime": 30,
+      "reating": 2.9,
+      "votes": 1820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 16,
+      "name": "Taj Mahal Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Paneer Butter, Pepper Soups",
+      "costForOne": 350,
+      "minPrice": 70,
+      "orderTime": 30,
+      "reating": 2.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 17,
+      "name": "Swadish Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768183/images/menus/x4cspjvzqn2qk76sjhiw.jpg",
+      "menu": "Rice, Burger, Ramen, Sosis 2",
+      "costForOne": 150,
+      "minPrice": 60,
+      "orderTime": 30,
+      "reating": 1.5,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 18,
+      "name": "Savraj Patel Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768183/images/menus/x4cspjvzqn2qk76sjhiw.jpg",
+      "menu": "Rice,Fried Rice,Suya,Yamarita",
+      "costForOne": 120,
+      "minPrice": 50,
+      "orderTime": 30,
+      "reating": 1.1,
+      "votes": 820,
+      "reviews": 750,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    },
+    {
+      "id": 20,
+      "name": "Lazzat Hotel",
+      "imgUrl": "https://res.cloudinary.com/jobizil/image/upload/v1602768184/images/menus/ovni4qwzzxbufpsurlsg.jpg",
+      "menu": "Yam, Soup cream, Egusi Soup",
+      "costForOne": 1000,
+      "minPrice": 200,
+      "orderTime": 20,
+      "reating": 4.9,
+      "votes": 8200,
+      "reviews": 7520,
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      }
+    },
+    {
+      "id": 19,
+      "name": "New Indian Cuisine",
+      "imgUrl": "https://loveincorporated.blob.core.windows.net/contentimages/gallery/d9e900e4-212e-4c3d-96d5-cb14a023c659-worlds-most-delicious-dishes.jpg",
+      "menu": "Rice Idli ,Sambhar Vada ,Dahi Vada ",
+      "costForOne": 900,
+      "minPrice": 200,
+      "orderTime": 25,
+      "reating": 4.6,
+      "votes": 4500,
+      "reviews": 2550,
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      }
+    }
+  ]
+}

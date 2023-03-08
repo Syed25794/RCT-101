@@ -1,0 +1,73 @@
+.main_div{
+    text-align: center;
+}
+
+.main_restaurant_div{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.image{
+    margin:10px 0px 0px 10px;
+    border-radius: 10px;
+    width: 100px;
+    height: 150px;
+}
+
+.box{
+    width: 420px;
+    height: 250px;
+    display: flex;
+    margin: 10px;
+    box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+    /* box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px; */
+}
+.middle_div{
+    width: 200px;
+    margin: 10px 0px 0px 10px;
+}
+.hotel_name{
+    font-size: 20px;
+    color:rgb(201,107,89);
+    font-weight: bold;
+}
+.menu{
+    color:gray;
+    font-size: 14px;
+    font-weight: 450;
+}
+.min_price{
+    font-size: 14px;
+}
+.right_div{
+    margin:10px 0px 0px 10px;
+}
+.review_box{
+    border-radius: 3px;
+    color:white;
+    font-weight: bold;
+    background-color: rgb(114,160,43);
+    width: 40px;
+    height: 24px;
+    text-align: center;
+    margin-left: 40px;
+}
+.votes{
+    color:gray;
+    font-size: 14px;
+    font-weight: 450;
+    text-align: right;
+    margin-top: 8px;
+}
+.reviews{
+    color:gray;
+    font-size: 14px;
+    font-weight: 450;
+    text-align: right;
+}
+.btn{
+    margin:10px;
+    padding:5px 10px 5px 10px;
+    background-color:orange;
+    border-radius: 10px;
+}
